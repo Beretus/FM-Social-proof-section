@@ -154,20 +154,20 @@ h5 {
     }
 }
 
-@media (max-width: 1170px) {
+@media (max-width: 1192px) {
     .container {
         width: 90%;
     }
 }
 
 
-@media (max-width: 1035px) {
+@media (max-width: 1060px) {
     .container {
         width: 95%;
     }
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1005px) {
     .heading {
         flex-direction: column;
         align-items: center;
@@ -189,6 +189,11 @@ h5 {
     .headingText h1 {
         text-align: center;
         font-size: 2rem;
+    }
+
+    .headingText p {
+        font-size: 0.8rem;
+        line-height: 1.2rem;
     }
 
     .rate {
